@@ -1,0 +1,16 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+tests/test_base.py
+tests/test_modules_lin.py
+tests/test_modules_log.py
+torch_influence/__init__.py
+torch_influence/base.py
+torch_influence/modules.py
+torch_influence.egg-info/PKG-INFO
+torch_influence.egg-info/SOURCES.txt
+torch_influence.egg-info/dependency_links.txt
+torch_influence.egg-info/not-zip-safe
+torch_influence.egg-info/requires.txt
+torch_influence.egg-info/top_level.txt
